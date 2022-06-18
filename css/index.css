@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+h1 {
+    animation-name: initial;
+    animation-duration: 300ms;
+    animation-direction: alternate-reverse;
+    animation-play-state: running;
+
+    text-align: justify;
+    text-decoration: wavy;
+}
